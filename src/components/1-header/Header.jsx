@@ -45,7 +45,9 @@ const Header = () => {
           <li>
             <a href="">CV</a>
           </li>
-
+          <li>
+            <a href="">Linkedin</a>
+          </li>
           <li>
             <a href="">Certificates</a>
           </li>
@@ -93,7 +95,7 @@ const Header = () => {
             <li>
               <a href="">CV</a>
             </li>
-              <li>
+            <li>
               <a href="">Linkedin</a>
             </li>
             <li>

@@ -8,6 +8,9 @@ const Footer = () => {
           <a href="">CV</a>
         </li>
         <li>
+          <a href="">Linkedin</a>
+        </li>
+        <li>
           <a href="">Projects</a>
         </li>
         <li>
