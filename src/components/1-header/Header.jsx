@@ -43,20 +43,31 @@ const Header = () => {
       <nav>
         <ul className="flex">
           <li>
-            <a href="">CV</a>
+            <a
+              href="/public/personal/Mahmoud_Elnakhlawy_Front-End Developer_resume1.pdf"
+              download={"Mahmoud_Elnakhlawy_Front-End Developer_resume1.pdf"}
+            >
+              CV
+            </a>
           </li>
           <li>
-            <a href="">Linkedin</a>
+            <a
+              href="https://www.linkedin.com/in/mahmoud-elnakhlawy-397b381b3/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Linkedin
+            </a>
           </li>
           <li>
             <a href="">Certificates</a>
           </li>
           <li>
-            <a href="">Projects</a>
+            <a href="#projects">Projects</a>
           </li>
 
           <li>
-            <a href="contact">Contact</a>
+            <a href="#contact">Contact</a>
           </li>
         </ul>
       </nav>
@@ -93,10 +104,21 @@ const Header = () => {
               />
             </li>
             <li>
-              <a href="">CV</a>
+              <a
+                href="/public/personal/Mahmoud_Elnakhlawy_Front-End Developer_resume1.pdf"
+                download={"Mahmoud_Elnakhlawy_Front-End Developer_resume1.pdf"}
+              >
+                CV
+              </a>
             </li>
             <li>
-              <a href="">Linkedin</a>
+              <a
+                href="https://www.linkedin.com/in/mahmoud-elnakhlawy-397b381b3/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Linkedin
+              </a>
             </li>
             <li>
               <a href="">Certificates</a>

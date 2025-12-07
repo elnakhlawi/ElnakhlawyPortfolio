@@ -8,20 +8,20 @@ const Hero = () => {
   const lottieRef = useRef();
 
   return (
-    <section className="hero flex" id="hero">
-      <div className="left-section  ">
+    <section className="hero flex" id="hero" >
+      <div  className="left-section  ">
         <motion.h1
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 2 }}
           className="title"
         >
-          Hi, I&apos;m Mahmoud Elnakhlawy | MERN Stack Developer{" "}
+          Hi, I&apos;m Mahmoud Elnakhlawy | Software Engineer
           <span className="waving-hand">👋</span>
         </motion.h1>
 
         <p className="sub-title">
-          I’m Mahmoud Ahmed Elnakhalawy, a software Developer
+          I’m Mahmoud Ahmed Elnakhalawy, a software Engineer
         </p>
 
         <div className="all-icons flex">
@@ -34,7 +34,7 @@ const Hero = () => {
         </div>
       </div>
 
-      <div className="right-section animation ">
+      <div  className="right-section animation ">
         <Lottie
           lottieRef={lottieRef}
           className=""
