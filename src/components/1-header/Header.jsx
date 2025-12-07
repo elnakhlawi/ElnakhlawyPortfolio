@@ -43,18 +43,16 @@ const Header = () => {
       <nav>
         <ul className="flex">
           <li>
-            <a href="">About</a>
+            <a href="">CV</a>
           </li>
 
           <li>
-            <a href="">Articles</a>
+            <a href="">Certificates</a>
           </li>
           <li>
             <a href="">Projects</a>
           </li>
-          <li>
-            <a href="">Speaking</a>
-          </li>
+
           <li>
             <a href="contact">Contact</a>
           </li>
@@ -93,19 +91,16 @@ const Header = () => {
               />
             </li>
             <li>
-              <a href="">About</a>
+              <a href="">CV</a>
             </li>
             <li>
-              <a href="">Articles</a>
+              <a href="">Certificates</a>
             </li>
             <li>
               <a href="">Projects</a>
             </li>
             <li>
-              <a href="">Speaking</a>
-            </li>
-            <li>
-              <a href="">Uses</a>
+              <a href="">Contact</a>
             </li>
           </ul>
         </div>

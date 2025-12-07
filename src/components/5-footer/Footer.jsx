@@ -5,20 +5,17 @@ const Footer = () => {
     <footer className="flex">
       <ul className="flex">
         <li>
-          <a href="">About</a>
+          <a href="">CV</a>
         </li>
         <li>
           <a href="">Projects</a>
         </li>
         <li>
-          <a href="">Speaking</a>
-        </li>
-        <li>
-          <a href="">Uses</a>
+          <a href="">Certificates</a>
         </li>
       </ul>
 
-      <p>© 2023 Spencer Sharp. All rights reserved.</p>
+      <p>© 2025 M Elnakhlawy. All rights reserved.</p>
     </footer>
   );
 };
